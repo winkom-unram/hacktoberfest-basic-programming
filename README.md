@@ -7,20 +7,15 @@
 4. Satu file memiliki 1 basic pemrogramman seperti `for loop`, apabila ada penambahan basic pemrograman seperti `if else`, buatlah di file yang baru
 5. Setelah membuat file dan mengisi basic pemrogramman di dalam file lakukan commit kemudian langsung full request,
 6. Lakukan berulang dari poin no 2 sampai no 5 apabila ingin memasukan lebih dari 4 basic programming untuk memenuhi kriteria hacktoberfest point, lebih banyak maka lebih bagus 🤣
-7. Jelaskan masing" baris code yang dibuat supaya mudah di pahami orang lain (opsional)
+7. Jelaskan masing" baris code yang dibuat supaya mudah di pahami orang lain dengan cara kasih comment `//penjelasannya disini`
 
 for example:
 
 ```
-void main() { 
-   print(factorial(6));
-}  
-factorial(number){
-    if (number <= 0){
-        return 1;
-    } else {
-      return (number * factorial(number - 1));
-    }
+// This is where the app starts executing.
+void main() {
+  var number = 42; // Declare and initialize a variable.
+  printInteger(number); // Call a function.
 }
 ```
 hasil output:
