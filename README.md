@@ -3,7 +3,7 @@
 Untuk mengikuti event hacktoberfest wajib register di https://hacktoberfest.digitalocean.com/ menggunakan akun github
 
 ### Rules:
-1. Untuk berpartisipasi hacktoberfest kali ini FORK terlebih dahulu project `hacktoberfest-basic-programming` ini dan pastikan sudah register pada link di atas
+1. Untuk berpartisipasi hacktoberfest 2021 kali ini FORK terlebih dahulu project `hacktoberfest-basic-programming` ini dan pastikan sudah register pada link di atas
 2. Buatlah sebuah file dengan nama basic pemrogramman yang digunakan dan dengan extensi sesuai dengan bahasa pemrogramman yang digunakan seperti `for loop.kt`, `if else.cpp`, `list.py`, `map.dart`, `fuction.java`, `class.go`
 3. Di dalam file yang sudah dibuat isi dengan basic pemrogramman dari bahasa yang digunakan pada poin No 1
 4. Satu file memiliki 1 basic pemrogramman seperti `for loop`, apabila ada penambahan basic pemrograman seperti `if else`, buatlah di file yang baru
