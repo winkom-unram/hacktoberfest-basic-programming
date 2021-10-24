@@ -7,6 +7,7 @@
 4. Satu file memiliki 1 basic pemrogramman seperti `for loop`, apabila ada penambahan basic pemrograman seperti `if else`, buatlah di file yang baru
 5. Setelah membuat file dan mengisi basic pemrogramman di dalam file lakukan commit kemudian langsung full request,
 6. Lakukan berulang dari poin no 2 sampai no 5 apabila ingin memasukan lebih dari 4 basic programming untuk memenuhi kriteria hacktoberfest point, lebih banyak maka lebih bagus 🤣
+7. Jelaskan masing" baris code yang dibuat supaya mudah di pahami orang lain (opsional)
 
 for example:
 
